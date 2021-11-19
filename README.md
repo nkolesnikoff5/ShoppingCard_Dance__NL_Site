@@ -1,1 +1,1 @@
-Shopping card addition for Dance NL website
+Shopping card page for Dance NL website.
